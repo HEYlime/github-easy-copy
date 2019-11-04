@@ -1,0 +1,6 @@
+2019-11-04 12:41 +08:00: The static directory has been deprecated in favor of the public directory. https://err.sh/zeit/next.js/static-dir-deprecated
+2019-11-04 12:41 +08:00: server listen success 3000
+2019-11-04 12:49 +08:00: Warning: the `Container` in `_app` has been deprecated and should be removed. https://err.sh/zeit/next.js/app-container-deprecated
+2019-11-04 12:53 +08:00: Warning: the `Container` in `_app` has been deprecated and should be removed. https://err.sh/zeit/next.js/app-container-deprecated
+2019-11-04 12:55 +08:00: Warning: the `Container` in `_app` has been deprecated and should be removed. https://err.sh/zeit/next.js/app-container-deprecated
+2019-11-04 12:56 +08:00: Warning: the `Container` in `_app` has been deprecated and should be removed. https://err.sh/zeit/next.js/app-container-deprecated

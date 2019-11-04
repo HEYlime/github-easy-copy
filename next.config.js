@@ -60,6 +60,7 @@ const SCOPE = 'user';
 
 module.exports = withBundleAnalyzer(withLess(
   withCss({
+    distDir: "dist",
     webpack(config, options) {
       config.plugins.push(new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/));
       return config;
